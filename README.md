@@ -1,24 +1,9 @@
-# restaurant-demo-firebase
+Vue CLI4 & Firebase & Bootstrap css single page application (SPA) with nodemailer.
+CRUD application with Admin area.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Require: 
+Nodejs (>= 12.0),
+Vue CLI4,
+Bootstrap4,
+firebase-tools
+firebase (test free) account
